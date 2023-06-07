@@ -2,9 +2,9 @@
 
 By [michioxd](https://github.com/michioxd)
 
-## Open in Google Collab
+## Open in Google Colab
 
-[Google Collab](https://colab.research.google.com/github/michioxd/koboldai-chub-venus/blob/main/KoboldAIforChubVenus.ipynb)
+[Google Colab](https://colab.research.google.com/github/michioxd/koboldai-chub-venus/blob/main/KoboldAIforChubVenus.ipynb)
 
 ## Usage
 
