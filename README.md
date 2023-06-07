@@ -2,6 +2,10 @@
 
 By [michioxd](https://github.com/michioxd)
 
+## Open in Google Collab
+
+[Google Collab](https://colab.research.google.com/github/michioxd/koboldai-chub-venus/blob/main/KoboldAIforChubVenus.ipynb)
+
 ## Usage
 
 ### Browser setup
