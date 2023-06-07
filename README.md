@@ -82,8 +82,6 @@ Remember to run Chub Venus in already disabled CORS browser
 
 - Go to your public hostname
 - Click to AI button
-- Select to another Modal, you can try (NFSW Models > Erebus 2.7B (NSFW))
+- Select to another Model (8GB VRAM Model is recommend)
 
 **PLEASE NOTE:** Google only give 15GB VRAM
-
-## Good luck :)
